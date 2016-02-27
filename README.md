@@ -63,7 +63,7 @@ https://chrome.google.com/webstore/detail/toggl-button-for-custom-w/cblhgnnnpnon
 
 ## Installing from Source
 
-1.  Clone the repository: `git clone git://github.com/sfarbota/toggl-button-for-custom-websites`
+1.  Clone the repository: `git clone git://github.com/pashist/toggl-button-for-custom-websites`
 2.  Navigate to `chrome://extensions/` and enable "Developer Mode".
 3.  Choose "Load unpacked extension..."
 4.  Open the src directory in the toggl-button directory you just cloned and follow the prompts to install.
